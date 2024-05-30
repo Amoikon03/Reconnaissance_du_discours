@@ -35,7 +35,7 @@ with col1:
     """, unsafe_allow_html=True)
 
 with col2:
-    st.image("A.jpg", caption="Reconnaissance automatique de la parole", use_column_width=True)
+    st.image("Reconnaissance du discours/A.jpg", caption="Reconnaissance automatique de la parole", use_column_width=True)
 
 # Lien vers l'autre page ou section
 st.subheader("Visitez la page Discours")
